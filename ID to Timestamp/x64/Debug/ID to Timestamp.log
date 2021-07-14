@@ -1,0 +1,3 @@
+﻿  main.cpp
+C:\Users\ryanb\source\repos\ID to Timestamp\ID to Timestamp\main.cpp(31,27): warning C4244: '=': conversão de '__int64' para 'long', possível perda de dados
+  ID to Timestamp.vcxproj -> C:\Users\ryanb\source\repos\ID to Timestamp\x64\Debug\converter_timestamp.exe
